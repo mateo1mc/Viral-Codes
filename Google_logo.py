@@ -6,6 +6,9 @@ t = turtle.Turtle()
 # Set the background color to black
 turtle.bgcolor("black")
 
+# set the title of the window
+turtle.title('Google Logo')
+
 # Select color
 t.color('#4285F4', '#4285F4')  # RBG value of color
 
